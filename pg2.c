@@ -18,7 +18,7 @@ int main()
       for (d = 0 ; d < n; d++)
          scanf("%d", &second[c][d]);
  
-   printf("Sum of entered matrices:-\n");
+   printf("Sum of the entered matrices:-\n");
  
    for (c = 0; c < m; c++) {
       for (d = 0 ; d < n; d++) {
